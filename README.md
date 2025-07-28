@@ -1,4 +1,4 @@
-🎯 Jogo do Número Secreto
+🎯 Jogo do Número Secreto<br>
 Este projeto é uma atividade prática desenvolvida durante as aulas introdutórias de programação com JavaScript. 
 O objetivo é criar um jogo interativo em que o usuário tenta adivinhar o número secreto entre 1 e 10, recebendo dicas a cada tentativa. 
 Como diferencial, o jogo conta com suporte por comando de voz, permitindo que as mensagens do jogo sejam faladas pela página usando a biblioteca ResponsiveVoice.

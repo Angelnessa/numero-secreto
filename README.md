@@ -21,7 +21,7 @@ Como diferencial, o jogo conta com suporte por comando de voz, permitindo que as
 - Uso de operador ternário para simplificação de código
 - Integração com biblioteca externa para voz sintética
 
-🤖 Curiosidades
+🤖 Curiosidades<br>
 Você sabia? O ResponsiveVoice é uma solução simples e eficaz para adicionar síntese de fala em páginas web. 
 Com ele, o jogo fica muito mais interativo — perfeito para dar aquele toque especial na experiência do usuário!
 
